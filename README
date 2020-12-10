@@ -20,3 +20,13 @@ Running tabbed
 --------------
 See the man page for details.
 
+
+# Modifications
+Patches applied:
+- autohide
+- clientnumber
+
+Keybinds:
+- ctrl+shift+t -> spawn new tab with original command
+- ctrl+PageUp/PageDown -> switch tabs
+- ctrl+shift+PAgeUp/PageDown -> move tabs
